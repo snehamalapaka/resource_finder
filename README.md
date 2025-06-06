@@ -1,4 +1,4 @@
-# 🔍 ML Resource Finder
+#  Resource Finder
 
 A Python-based tool to find trending Machine Learning resources from GitHub, Hugging Face, and arXiv based on your custom query (like "image2video", "lipsync", "TTS", etc.).
 
