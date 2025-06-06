@@ -10,7 +10,7 @@ A Python-based tool to find trending Machine Learning resources from GitHub, Hug
 - Summarizes abstracts using the `t5-small` model.
 - Saves or prints useful summaries for research or exploration.
 
-##  T5 Small: Unified Text-to-Text Model
+##  T5 Small Model:
 
 - *Versatile NLP Model*: T5 Small is a compact yet powerful transformer model (60M parameters) capable of handling diverse NLP tasks like machine translation, sentiment analysis, and summarization.
 
