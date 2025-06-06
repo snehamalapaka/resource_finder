@@ -1,6 +1,7 @@
 #  Resource Finder
 
-A Python-based tool to find trending Machine Learning resources from GitHub, Hugging Face, and arXiv based on your custom query (like "image2video", "lipsync", "TTS", etc.).
+A Python-based tool to discover the latest Hugging Face models, GitHub repositories, and arXiv research papers related to a specific machine learning topic — all in one place, with concise summaries of relevant research.
+
 
 ##  Features
 
