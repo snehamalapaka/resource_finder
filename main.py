@@ -7,14 +7,6 @@ from llm.summarize import summarize_abstract
 from nlp.summarize import summarize_text
 
 
-
-
-
-
-
-
-
-
 if __name__ == "__main__":
     query = input("Enter a topic: ").strip()
 
